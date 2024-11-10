@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://choirunnisa12.github.io/Ruang-Kursus",
 
   "scripts": {
     "dev": "vite",
